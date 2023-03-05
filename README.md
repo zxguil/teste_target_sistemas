@@ -11,7 +11,15 @@ yarn
 ou
 ```sh
 yarn install
-```  
+```
+## Depois o compilador do TypeScript
+```sh
+tsc
+```
+ou
+```
+yarn run build
+```
   
 Eu criei alguns scripts com exemplo dos inputs nos exercícios.
 
