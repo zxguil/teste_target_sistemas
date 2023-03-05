@@ -1,3 +1,5 @@
+# Os exercícios estão no [exercicios.md](/src/exercicios.md)  
+
 # Requisitos
 * Node
 * Yarn
